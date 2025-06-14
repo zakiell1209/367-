@@ -1,2 +1,4 @@
-aiogram==2.25.1
+aiogram==3.0.0
 requests
+pydantic==2.3.0
+pydantic-core==2.14.6
